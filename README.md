@@ -1,5 +1,12 @@
 # AdGuard DNS SDE Demo Extension
 
+> **This repository has moved to GitHub.**
+>
+> The project is now maintained at [AdguardTeam/dns-sde-extension][new-repo].
+> Please use GitHub for the latest code, issues, and pull requests.
+
+[new-repo]: https://github.com/AdguardTeam/dns-sde-extension
+
 This browser extension demonstrates how Structured DNS errors can work if supported natively by browsers.
 It listens for web requests and identifies loading errors on main frames.
 When an error is detected, it queries the AdGuard DNS DoH (DNS-over-HTTPS) service
